@@ -1,0 +1,2 @@
+cpu_threshold: 80
+alert_email: devops@company.com
