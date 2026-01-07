@@ -1,0 +1,2 @@
+memory_threshold: 90
+alert_slack: #alerts
