@@ -6,4 +6,4 @@
 
 ## CI/CD Integration
 - Jenkins support
--  - GitHub Actions workflows
+- GitHub Actions workflows
