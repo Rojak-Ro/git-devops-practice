@@ -3,3 +3,7 @@
 
 ## Requirements
 - Git 2.0+
+
+## CI/CD Integration
+- Jenkins support
+-  - GitHub Actions workflows
