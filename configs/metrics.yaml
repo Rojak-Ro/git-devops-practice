@@ -1,1 +1,2 @@
 metrics_port: 9090
+metrics_interval: 10
