@@ -4,3 +4,4 @@
      theme: dark
 backup_enabled: true
 backup_schedule: daily
+timeout: 30
